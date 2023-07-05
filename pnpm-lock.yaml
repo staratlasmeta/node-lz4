@@ -6,51 +6,51 @@ settings:
 
 dependencies:
   buffer:
-    specifier: ^5.2.1
+    specifier: 5.2.1
     version: 5.2.1
   cuint:
-    specifier: ^0.2.2
+    specifier: 0.2.2
     version: 0.2.2
   node-addon-api:
-    specifier: ^3.2.1
+    specifier: 3.2.1
     version: 3.2.1
   xxhashjs:
-    specifier: ^0.2.2
+    specifier: 0.2.2
     version: 0.2.2
 
 devDependencies:
   benchmark:
-    specifier: ^1.0.0
+    specifier: 1.0.0
     version: 1.0.0
   browserify:
-    specifier: ^16.2.3
+    specifier: 16.2.3
     version: 16.2.3
   jasmine-core:
-    specifier: ^2.2.0
+    specifier: 2.2.0
     version: 2.2.0
   karma:
-    specifier: ^0.12.31
+    specifier: 0.12.31
     version: 0.12.31
   karma-chrome-launcher:
-    specifier: ^0.1.7
+    specifier: 0.1.7
     version: 0.1.7(karma@0.12.31)
   karma-cli:
     specifier: 0.0.4
     version: 0.0.4
   karma-firefox-launcher:
-    specifier: ^0.1.4
+    specifier: 0.1.4
     version: 0.1.4(karma@0.12.31)
   karma-jasmine:
-    specifier: ^0.3.5
+    specifier: 0.3.5
     version: 0.3.5(jasmine-core@2.2.0)(karma@0.12.31)
   karma-mocha:
-    specifier: ^0.1.10
+    specifier: 0.1.10
     version: 0.1.10(karma@0.12.31)(mocha@2.2.4)
   minify:
-    specifier: ^4.1.1
+    specifier: 4.1.1
     version: 4.1.1
   mocha:
-    specifier: ^2.2.4
+    specifier: 2.2.4
     version: 2.2.4
 
 packages:
